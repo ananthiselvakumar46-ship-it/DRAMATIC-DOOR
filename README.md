@@ -2,39 +2,43 @@
 
 
 
-# [Project Name] 🎯
+# [Dramatic door] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Low battery squad]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [ Isha Fathima I] - [College of engineering munnar]
+- Member 2: [ S.Ananthi] - [College of engineering munnar]
+- Member 3: [ Isha Fathima I] - [College of engineering munnar ]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Dramatic door is a fun useless project that makes a normal door unnecessarily dramatic . it plays funny sounds when opens , closes ,or stays inactive for 2 minutes. ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[The door is not dramatic enough in the people open or close it . our project solves this" serious" problem by giving the door its own dramatic reactions]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+**Solution:**
+[An ESP32 detects the door’s movement and triggers different funny sounds through a web interface, making every opening and closing unnecessarily dramatic. 🚪😂
+]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+dart(flutter)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+**Hardware Used:**
+
+* ESP32
+* Door sensor
+* Buzzer/Speaker
+* Jumper wires
+* Breadboard
+* Power supply
 
 ### Implementation
 For Software:
@@ -48,50 +52,39 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1600" height="728" alt="App page 1" src="https://github.com/user-attachments/assets/7488095c-82b1-4858-a3e5-9c5498be3222" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+![<img width="728" height="1600" alt="App page 2" src="https://github.com/user-attachments/assets/9be4fb5e-0777-45fb-8739-74dbe0677aae" />
+](Add screenshot 2 here with proper name)
+
+![<img width="728" height="1600" alt="App page 3" src="https://github.com/user-attachments/assets/afe36980-f2ad-40a5-8f84-2f938793b838" />
+](Add screenshot 3 here with proper name)
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+[<img width="1536" height="1024" alt="workflow" src="https://github.com/user-attachments/assets/0a480d24-ccf1-4da8-9cea-fa4d1fbff5e2" />
 
-For Hardware:
+]
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+
+
+
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![<img width="1280" height="960" alt="hardware 1" src="https://github.com/user-attachments/assets/f8147f5b-35d6-4624-a013-8b1b2acbf2a5" />
+]
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+[<img width="1280" height="960" alt="hardware2" src="https://github.com/user-attachments/assets/6a52f86e-3d7f-4dd4-aed5-823e4c57b093" />
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Isha Fathima I: Hardware
+- S Ananthi: software
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
